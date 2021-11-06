@@ -4,4 +4,4 @@
 
 1. Make sure python is installed, if not, download here  https://www.python.org/downloads/
 2. run 'pip install facebook-scraper' command in terminal
-3. run script
+3. run script : _python3 fb.py_
